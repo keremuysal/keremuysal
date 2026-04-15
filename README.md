@@ -10,33 +10,6 @@
 
 Bursa Teknik Üniversitesi'nde **Biyomühendislik** 2. sınıf öğrencisiyim. Mühendisliğin biyolojik kısmıyla ilgilenirken, diğer yandan **Gömülü Sistemler**, **Elektronik Prototipleme** ve **Web Geliştirme** dünyasında projeler üretiyorum.
 
-* 📍 **Konum:** Bursa, Nilüfer
-* 🚀 **Genç Liderler Topluluğu**'nda BT Departmanı Başkanı olarak görev yapıyorum.
-* 💡 **Tech&Lab**'ın kurucusuyum.
-* 📟 **Amatör Telsizcilik** ve RF teknolojilerine meraklıyım.
-* 🎵 Kendi taşınabilir müzik çalarımı (**DAP**) geliştiriyorum.
-* 🧠 Şu sıralar **Makine Öğrenmesi** üzerine yoğunlaşıyorum.
-
----
-
-### 🛠️ Yetenekler & Araçlar
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-### ⚡ Eğlenceli Bilgiler
-
-* 🎸 **Müzik:** Anadolu Rock (Özellikle Erkin Koray, Barış Manço).
-* 🎮 **Gaming:** GTA San Andreas görevlerini %100 bitirmek hayat amacım.
-* 📻 **Hobi:** Boş zamanlarımda telsiz başında frekans takibi yaparım.
-
 ---
 
 ### 📫 Bana Ulaşın
