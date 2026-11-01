@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,30:0f172a,70:1e293b,100:0284c7&height=220&section=header&text=Kerem%20Uysal&fontSize=52&fontAlignY=38&desc=Bioengineering%20%E2%80%A2%20Embedded%20Hardware%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Tech%26Lab&descAlignY=62&descAlign=50" width="100%" alt="Kerem Uysal" />
+  <img src="https://raw.githubusercontent.com/keremuysal/keremuysal/main/header.svg" width="100%" alt="Kerem Uysal" />
 
   <br/>
 
@@ -228,7 +228,7 @@ Aynı zamanda dijital ürünler ve stratejik araştırmalar geliştirdiğimiz **
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=keremuysal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=keremuysal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" height="175" alt="GitHub Stats" />
       </td>
       <td align="center">
         <img src="https://streak-stats.demolab.com/?user=keremuysal&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="175" alt="GitHub Streak" />
@@ -238,7 +238,7 @@ Aynı zamanda dijital ürünler ve stratejik araştırmalar geliştirdiğimiz **
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremuysal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keremuysal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="165" alt="Top Languages" />
 </div>
 
 ---
@@ -276,5 +276,5 @@ Projeler, açık kaynak iş birlikleri veya teknik fikir teatileri için her zam
 <div align="center">
   <i>"Teknoloji, doğanın çalışma prensiplerini anlama ve onu insanlığın hizmetine dönüştürme sanatıdır."</i>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0284c7,30:1e293b,70:0f172a,100:090d16&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/keremuysal/keremuysal/main/header.svg" width="100%" alt="Kerem Uysal" />
 </div>
