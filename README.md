@@ -71,6 +71,87 @@ Aynı zamanda dijital ürünler ve stratejik araştırmalar geliştirdiğimiz **
 
 | Proje | Alan | Açıklama | Teknoloji / Bağlantı |
 | :--- | :--- | :--- | :--- |
+| **[Antigravity Web](https://github.com/keremuysal/antigravity-web)** | AI & Autonomous Agents | Google Antigravity kodlama ajanları için self-hosted mobil PWA istemcisi. Canlı token akışı, Battle Mode ve sıfır port güvenliği. | FastAPI Python PWA SSE |
+| **[Yoda Studio](https://github.com/keremuysal/yoda-studio)** | Bioengineering & 3D Viz | Biyomoleküler 3D yapı görüntüleme, yapısal hizalama ve biyofiziksel analiz platformu. | TypeScript Mol* Bioinformatics |
+| **[Tech&Lab](https://github.com/keremuysal/techandlab)** | Web & Platform | Çift dilli (TR/EN), modern ve performans odaklı kurumsal teknoloji web sitesi. | React Vite SEO Schema.org |
+| **[Tech&Lab Blog](https://github.com/keremuysal/techandlab-blog)** | Research Platform | 3 dilli (TR/EN/DE), PDF arşiv destekli derin teknoloji & strateji yayını. | Jekyll Chirpy Markdown KaTeX |
+| **[PLFM RADAR](https://github.com/keremuysal/PLFM_RADAR)** | Hardware & RF | 10.5 GHz düşük maliyetli açık kaynak faz dizili RADAR sistemi. | C++ RF / Microwave Phased Array |
+| **[IcHat](https://github.com/keremuysal/IcHat)** | Security & Privacy | Uçtan uca şifreleme (E2EE) ve sıfır-bilgi güvenliğiyle çalışan haberleşme mimarisi. | Cryptography Node.js Security |
+| **[GitHub TR Sözlük Eklentisi](https://github.com/keremuysal/Github.comSozlukTemelliCeviriEklentisi)** | Extension / Tools | GitHub arayüzünü yazılım terminolojisine uygun yerel sözlükle Türkçeleştiren Manifest V3 eklentisi. | JavaScript Chrome Extension MV3 |
+| **[Amazon Glitch Hunter](https://techandlab.com)** *(Private)* | Autonomous Agent | E-ticaretteki ekstrem fiyat hatalarını (glitch) milisaniyeler içinde yakalayıp bildiren 7/24 bot. | Python Automation 🔒 Private |
+| **[Akıllı Alışveriş Takipçisi](https://github.com/keremuysal/alisverislistesitakipcisi)** | Scraping & Analytics | Akakçe & AliExpress verilerini otomatik toplayıp grafiklerle analiz eden takip motoru. | Python BeautifulSoup Data Viz |
+| **[WifiMailer](https://github.com/keremuysal/wifimailer)** | Embedded Hardware | Digispark (ATtiny85) mikrodenetleyici tabanlı donanımsal bildirim ve otomasyon aracı. | C++ ATtiny85 Digispark |ysal&fontSize=52&fontAlignY=38&desc=Bioengineering%20%E2%80%A2%20Embedded%20Hardware%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Tech%26Lab&descAlignY=62&descAlign=50" width="100%" alt="Kerem Uysal" />
+
+  <br/>
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Bioengineering+Student+%40+Bursa+Technical+University+%F0%9F%A7%AC;Founder+%26+Tech+Lead+%40+Tech%26Lab+%F0%9F%9A%80;Embedded+Systems%2C+IoT+%26+Microwave+Hardware+%E2%9A%A1;Modern+Full-Stack+Web+%26+Chrome+Extensions+%F0%9F%92%BB;Autonomous+Bots%2C+Real-Time+Scrapers+%26+Automation+%F0%9F%A4%96;Deep+Tech+Thinker%3A+Semiconductors%2C+AI+%26+Strategy+%F0%9F%93%96" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <p align="center">
+    <a href="https://komarev.com/ghpvc/?username=keremuysal"><img src="https://komarev.com/ghpvc/?username=keremuysal&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" /></a>
+    <img src="https://img.shields.io/badge/Location-Bursa%2C%20Turkey-0f172a?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Education-Bursa%20Technical%20University-0284c7?style=flat-square" alt="BTU" />
+    <a href="https://techandlab.com"><img src="https://img.shields.io/badge/Venture-Tech%26Lab-38bdf8?style=flat-square" alt="Tech&Lab" /></a>
+  </p>
+
+  <p align="center">
+    <a href="https://keremuysal.com" target="_blank"><img src="https://img.shields.io/badge/Website-090d16?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="Website" /></a>
+    <a href="https://techandlab.com" target="_blank"><img src="https://img.shields.io/badge/Tech%26Lab-0284c7?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Tech&Lab" /></a>
+    <a href="https://blog.techandlab.com" target="_blank"><img src="https://img.shields.io/badge/Research_Blog-1e293b?style=for-the-badge&logo=hashnode&logoColor=38bdf8" alt="Tech&Lab Blog" /></a>
+    <a href="https://linkedin.com/in/akeremuysal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://twitter.com/keremuysaljpg" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="mailto:info@keremuysal.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 Hakkımda / About Me
+
+Bursa Teknik Üniversitesi'nde **Biyomühendislik** lisans eğitimi alıyor; biyolojinin sistematik doğasını **gömülü donanım mimarileri**, **mikrodalga RF sistemleri** ve **modern web teknolojileri** ile birleştiriyorum.
+
+Aynı zamanda dijital ürünler ve stratejik araştırmalar geliştirdiğimiz **[Tech&Lab](https://techandlab.com)** platformunun kurucusuyum. Biyomoleküler modellemeden 10.5 GHz radar prototiplemeye, otonom fiyat takip ajanlarından uçtan uca şifreli haberleşme protokollerine kadar uçtan uca sistemler inşa ediyorum.
+
+- 🧬 **Biyomühendislik & Yaşam Bilimleri:** Moleküler modelleme, biyomedikal cihaz mimarileri, hesaplamalı biyoloji.
+- ⚡ **Gömülü Sistemler & Donanım:** ESP32, Arduino, ATtiny/Digispark, 10.5 GHz açık kaynak faz dizili radar (PLFM RADAR).
+- 💻 **Yazılım & Modern Web:** JavaScript / TypeScript ekosistemi, React, Python otomasyonları, Manifest V3 Chrome eklentileri.
+- 🔒 **Güvenlik & Gizlilik:** Uçtan uca şifrelenmiş (E2EE) mesajlaşma sistemleri, yerel çalışan hafif istemciler.
+- 📖 **Derin Düşünce & Strateji:** [Tech&Lab Blog](https://blog.techandlab.com) üzerinden Yarı İletken Savaşları, Yapay Zeka Mimarisi ve Askeri Strateji (Moltke) analizleri.
+
+---
+
+### 🏢 Girişim & Araştırma Ekosistemi / The Tech&Lab Ecosystem
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://techandlab.com">Tech&Lab Kurumsal Platformu</a></h4>
+      <p>Yeni nesil modern web deneyimleri, kurumsal yazılım çözümleri ve teknoloji danışmanlığı sunan dijital inovasyon stüdyosu.</p>
+      <p>
+        <a href="https://techandlab.com"><code>www.techandlab.com ↗</code></a> &nbsp;•&nbsp; 
+        <a href="https://github.com/keremuysal/techandlab"><code>GitHub Repo ↗</code></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📖 <a href="https://blog.techandlab.com">Tech&Lab Research & Thought Blog</a></h4>
+      <p>3 dilli (TR / EN / DE) akademik ve stratejik araştırma yayını. Yarı İletken Jeopolitiği, Yapay Zeka hesaplama sınırları ve Helmuth von Moltke askeri sistem analizi.</p>
+      <p>
+        <a href="https://blog.techandlab.com"><code>blog.techandlab.com ↗</code></a> &nbsp;•&nbsp; 
+        <a href="https://github.com/keremuysal/techandlab-blog"><code>GitHub Repo ↗</code></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Öne Çıkan Projeler / Featured Projects
+
+| Proje | Alan | Açıklama | Teknoloji / Bağlantı |
+| :--- | :--- | :--- | :--- |
 | **[Tech&Lab](https://github.com/keremuysal/techandlab)** | `Web & Platform` | Çift dilli (TR/EN), modern ve performans odaklı kurumsal teknoloji web sitesi. | `React` `Vite` `SEO` `Schema.org` |
 | **[Tech&Lab Blog](https://github.com/keremuysal/techandlab-blog)** | `Research Platform` | 3 dilli (TR/EN/DE), PDF arşiv destekli derin teknoloji & strateji yayını. | `Jekyll` `Chirpy` `Markdown` `KaTeX` |
 | **[PLFM RADAR](https://github.com/keremuysal/PLFM_RADAR)** | `Hardware & RF` | 10.5 GHz düşük maliyetli açık kaynak faz dizili RADAR sistemi. | `C++` `RF / Microwave` `Phased Array` |
