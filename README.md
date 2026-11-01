@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/keremuysal/keremuysal/main/header.svg" width="100%" alt="Kerem Uysal" />
+  <img src="https://agy.keremuysal.com/static/header.svg" width="100%" alt="Kerem Uysal" />
 
   <br/>
 
@@ -276,5 +276,5 @@ Projeler, açık kaynak iş birlikleri veya teknik fikir teatileri için her zam
 <div align="center">
   <i>"Teknoloji, doğanın çalışma prensiplerini anlama ve onu insanlığın hizmetine dönüştürme sanatıdır."</i>
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/keremuysal/keremuysal/main/header.svg" width="100%" alt="Kerem Uysal" />
+  <img src="https://agy.keremuysal.com/static/header.svg" width="100%" alt="Kerem Uysal" />
 </div>
